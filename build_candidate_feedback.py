@@ -19,7 +19,7 @@ def main():
     parser.add_argument(
         "--output_path",
         type=str,
-        default="/home/disk_8t_2/lemon/DKPE-master/DATA/muffin_train/candidate_feedback.npy",
+        default="/home/disk_8t_2/lemon/XXXXX/DATA/XXXX/candidate_feedback.npy",
     )
     args = parser.parse_args()
 

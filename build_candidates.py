@@ -152,7 +152,7 @@ def main():
     parser.add_argument(
         "--output_path",
         type=str,
-        default="/home/disk_8t_2/lemon/DKPE-master/DATA/muffin_train/candidates.txt",
+        default="/.../candidates.txt",
     )
     args = parser.parse_args()
 

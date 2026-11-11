@@ -14,7 +14,7 @@ def main():
     parser.add_argument(
         "--candidates_path",
         type=str,
-        default="/home/disk_8t_2/lemon/DKPE-master/DATA/muffin_train/candidates.txt",
+        default="/home/disk_8t_2/lemon/XXXXX/DATA/XXXXXX/candidates.txt",
     )
     parser.add_argument(
         "--output_path",
